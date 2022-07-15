@@ -4,12 +4,28 @@ Publicly available for SOLAR (SummarizatiOn of heLpful App Reviews).
 
 
 
-# 
+# Dependencies
+python=3.7
+NLTK
+sklearn
+numpy
+pickle
+gensim
+nltk
+pandas
+xlsxwriter
+pytorch
+
+
+
+# Usage
+
+
+
 
 
 
 
 Baseline:
-https://github.com/monsterLee599/AR-Miner
-
-https://github.com/ReMine-Lab/IDEA
+AR-Miner: https://github.com/monsterLee599/AR-Miner
+IDEA: https://github.com/ReMine-Lab/IDEA
