@@ -6,31 +6,22 @@ Publicly available for SOLAR (SummarizatiOn of heLpful App Reviews).
 
 # Dependencies
 python=3.7
-
 NLTK
-
 sklearn
-
 numpy
-
 pickle
-
 gensim
-
 nltk
-
 pandas
-
 xlsxwriter
-
 pytorch
 
 
 
 # Usage
 
-
-
+cd scr
+python main.py
 
 
 
