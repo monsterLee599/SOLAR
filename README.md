@@ -20,7 +20,8 @@ pytorch
 
 # Usage
 
-cd scr
+cd src
+
 python main.py
 
 
